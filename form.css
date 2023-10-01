@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url("https://images7.alphacoders.com/132/thumb-350-1325399.png");
+    background-size: 280%;
+    background-position: -400px 0px;
+}
+div.main{
+    width: 400px;
+    margin: 100px auto 0px auto;
+}
+h2{
+    text-align: center;
+    padding: 20px;
+    font-family: sans-serif;
+}
+div.register{
+    background-color: rgba(39, 151, 192, 0.596);
+    border-radius: 10px;
+    color: #442020;
+}
+form#register{
+    margin: 40px;
+}
