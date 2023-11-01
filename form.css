@@ -2,13 +2,16 @@
     margin: 0;
     padding: 0;
 }
+div{
+    padding: 10px;
+}
 body{
     background: url("https://images7.alphacoders.com/132/thumb-350-1325399.png");
     background-size: 280%;
-    background-position: -400px 0px;
+    /* background-position: -400px 0px; */
 }
 div.main{
-    width: 400px;
+    width: 340px;
     margin: 100px auto 0px auto;
 }
 h2{
@@ -22,5 +25,8 @@ div.register{
     color: #442020;
 }
 form#register{
-    margin: 40px;
+    margin: auto 40px;
+}
+input#submit{
+    cursor: pointer;
 }
